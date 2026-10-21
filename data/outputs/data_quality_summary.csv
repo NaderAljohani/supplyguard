@@ -1,0 +1,7 @@
+Product,HS code,Rows,Suppliers,Product-months,Date range,Material supplier-months,LPI values present,LPI missing,Rows dropped in preprocessing
+Barley,1003,382,31,91,2018-01 → 2025-07,322,382,0,0
+Maize,1005,1083,50,91,2018-01 → 2025-07,293,1083,0,0
+Rice,1006,1862,60,91,2018-01 → 2025-07,524,1862,0,0
+Sugar,1701,2071,75,91,2018-01 → 2025-07,357,2071,0,0
+Wheat,1001,275,28,89,2018-01 → 2025-07,220,275,0,0
+ALL,—,5673,97,453,2018-01 → 2025-07,1716,5673,0,0

@@ -1,0 +1,6 @@
+Product,Mean top-10 overlap %,Min top-10 overlap %,Mean Spearman rho,Mean rank change,Stability score
+Barley,100.0,100.0,0.996,0.25,Highly stable
+Maize,100.0,100.0,0.984,0.17,Highly stable
+Rice,100.0,100.0,0.99,0.06,Highly stable
+Sugar,100.0,100.0,1.0,0.0,Highly stable
+Wheat,100.0,100.0,0.997,0.18,Highly stable

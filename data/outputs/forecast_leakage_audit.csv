@@ -1,0 +1,118 @@
+target,feature,in_model,lagged_or_as_of,leakage_risk,reason
+next_month_supplyguard_risk_score_0_100,HHI,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,anomaly_flag,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,anomaly_reason,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,anomaly_score,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,anomaly_z_flag,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,bab_el_mandeb_trade_volume_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,bab_el_mandeb_transit_calls_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,commodity_price_mom_pct_change,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,commodity_price_proxy_usd_per_mt,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,commodity_price_rolling_12m_cv,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,commodity_price_rolling_12m_mean,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,commodity_price_rolling_12m_std,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,commodity_price_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,commodity_price_yoy_pct_change,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,commodity_price_zscore_vs_12m,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,concentration_score_0_100,False,current-month,OK,"Same-month component, but not used as a model feature (only its _lag_1 / _lag_3 is)."
+next_month_supplyguard_risk_score_0_100,contribution_commodity_price_stress,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,contribution_import_anomaly,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,contribution_logistics,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,contribution_market_concentration,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,contribution_product_route_shipping_stress,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,contribution_supplier_dependency,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,dammam_incoming_shipment_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,dammam_outgoing_shipment_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,dammam_port_calls_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,date,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,days_to_nearest_event,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,disruption_event_name,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,event_window_flag,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,gulf_shipping_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,hhi_value,False,current-month,OK,"Same-month component, but not used as a model feature (only its _lag_1 / _lag_3 is)."
+next_month_supplyguard_risk_score_0_100,hormuz_trade_volume_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,hormuz_transit_calls_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,hs_code,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,import_anomaly_flag,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,import_anomaly_risk_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,import_anomaly_score_0_100,False,current-month,OK,"Same-month component, but not used as a model feature (only its _lag_1 / _lag_3 is)."
+next_month_supplyguard_risk_score_0_100,import_anomaly_z_score,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,import_value_usd,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,import_value_usd_mom_pct_change,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,import_value_usd_yoy_pct_change,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,iso_anomaly_flag,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,iso_anomaly_score,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,jeddah_incoming_shipment_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,jeddah_outgoing_shipment_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,jeddah_port_calls_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,king_abdullah_incoming_shipment_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,king_abdullah_outgoing_shipment_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,king_abdullah_port_calls_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_customs_score,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_customs_year,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_infrastructure_score,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_infrastructure_year,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_international_shipments_score,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_international_shipments_year,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_logistics_competence_score,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_logistics_competence_year,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_missing_flag,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_overall_score_filled,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_overall_year,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_timeliness_score,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_timeliness_year,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_tracking_tracing_score,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,lpi_tracking_tracing_year,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,market_concentration_risk_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,month,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,monthly_product_risk_rank,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,net_weight_kg,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,portwatch_missing_flag,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,price_stress_score_0_100,False,current-month,OK,"Same-month component, but not used as a model feature (only its _lag_1 / _lag_3 is)."
+next_month_supplyguard_risk_score_0_100,price_volatility_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,price_z_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,product_name,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,product_route_shipping_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,red_sea_shipping_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,rice_route_shipping_stress_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,risk_explanation_text,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,risk_level,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,rolling_12m_import_value_mean,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,rolling_12m_import_value_std,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,rolling_3m_import_value_mean,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,rolling_6m_import_value_mean,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,second_risk_driver,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,shipping_stress_score_0_100,False,current-month,OK,"Same-month component, but not used as a model feature (only its _lag_1 / _lag_3 is)."
+next_month_supplyguard_risk_score_0_100,source_file,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,supplier_country,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,supplier_dependency_risk_score_0_100,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,supplier_dependency_score_0_100,False,current-month,OK,"Same-month component, but not used as a model feature (only its _lag_1 / _lag_3 is)."
+next_month_supplyguard_risk_score_0_100,supplier_rank_by_month,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,supplier_share,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,supplier_share_value,False,current-month,OK,"Same-month component, but not used as a model feature (only its _lag_1 / _lag_3 is)."
+next_month_supplyguard_risk_score_0_100,supplier_share_value_mom_pct_change,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,supplier_share_value_yoy_pct_change,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,supplyguard_risk_score_0_100,False,current-month,OK,"Same-month component, but not used as a model feature (only its _lag_1 / _lag_3 is)."
+next_month_supplyguard_risk_score_0_100,target_date,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,top3_supplier_share_value,False,current-month,OK,"Same-month component, but not used as a model feature (only its _lag_1 / _lag_3 is)."
+next_month_supplyguard_risk_score_0_100,top_3_supplier_share,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,top_risk_driver,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,top_supplier_flag,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,total_import_value_usd_world,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,total_net_weight_kg_world,False,unknown,OK,Not used as a model feature.
+next_month_supplyguard_risk_score_0_100,year,False,identifier/derived,OK,Identifier or derived column — not used as a model feature.
+next_month_supplyguard_risk_score_0_100,hhi_lag_1,True,lag,OK,Lagged via groupby.shift(); month-T value uses month-T-1 (or T-3) data.
+next_month_supplyguard_risk_score_0_100,import_anomaly_risk_lag_1,True,lag,OK,Lagged via groupby.shift(); month-T value uses month-T-1 (or T-3) data.
+next_month_supplyguard_risk_score_0_100,import_value_lag_1,True,lag,OK,Lagged via groupby.shift(); month-T value uses month-T-1 (or T-3) data.
+next_month_supplyguard_risk_score_0_100,import_value_yoy_change_lag_1,True,lag,OK,Lagged via groupby.shift(); month-T value uses month-T-1 (or T-3) data.
+next_month_supplyguard_risk_score_0_100,logistics_risk_score_0_100,True,as-of-T,OK,"LPI is a slowly-changing supplier-country attribute, refreshed every few years; known as-of T."
+next_month_supplyguard_risk_score_0_100,month_cos,True,as-of-T,OK,Calendar seasonality — derived from the row's month index; known before prediction.
+next_month_supplyguard_risk_score_0_100,month_sin,True,as-of-T,OK,Calendar seasonality — derived from the row's month index; known before prediction.
+next_month_supplyguard_risk_score_0_100,price_stress_lag_1,True,lag,OK,Lagged via groupby.shift(); month-T value uses month-T-1 (or T-3) data.
+next_month_supplyguard_risk_score_0_100,risk_score_lag_1,True,lag,OK,Lagged via groupby.shift(); month-T value uses month-T-1 (or T-3) data.
+next_month_supplyguard_risk_score_0_100,risk_score_lag_3,True,lag,OK,Lagged via groupby.shift(); month-T value uses month-T-1 (or T-3) data.
+next_month_supplyguard_risk_score_0_100,risk_score_rolling_3m_mean,True,rolling-shifted,OK,Built as series.shift(1).rolling(...).mean() so window only sees past values.
+next_month_supplyguard_risk_score_0_100,risk_score_rolling_6m_mean,True,rolling-shifted,OK,Built as series.shift(1).rolling(...).mean() so window only sees past values.
+next_month_supplyguard_risk_score_0_100,shipping_stress_lag_1,True,lag,OK,Lagged via groupby.shift(); month-T value uses month-T-1 (or T-3) data.
+next_month_supplyguard_risk_score_0_100,supplier_share_lag_1,True,lag,OK,Lagged via groupby.shift(); month-T value uses month-T-1 (or T-3) data.
+next_month_supplyguard_risk_score_0_100,top3_supplier_share_lag_1,True,lag,OK,Lagged via groupby.shift(); month-T value uses month-T-1 (or T-3) data.

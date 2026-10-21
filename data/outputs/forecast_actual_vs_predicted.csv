@@ -1,0 +1,278 @@
+product,date,as_of_date,supplier_country,actual_next_month_risk,predicted_next_month_risk,baseline_predicted,model
+Barley,2025-01-01,2024-12-01,Argentina,28.59,31.83,31.83,Baseline (persistence)
+Barley,2025-02-01,2025-01-01,Argentina,30.09,28.59,28.59,Baseline (persistence)
+Barley,2025-03-01,2025-02-01,Argentina,33.42,30.09,30.09,Baseline (persistence)
+Barley,2025-04-01,2025-03-01,Argentina,30.86,33.42,33.42,Baseline (persistence)
+Barley,2025-05-01,2025-04-01,Argentina,31.03,30.86,30.86,Baseline (persistence)
+Barley,2025-06-01,2025-05-01,Argentina,45.35,31.03,31.03,Baseline (persistence)
+Barley,2025-01-01,2024-12-01,Australia,22.25,37.38,37.38,Baseline (persistence)
+Barley,2025-02-01,2025-01-01,Australia,28.8,22.25,22.25,Baseline (persistence)
+Barley,2025-05-01,2025-04-01,Australia,39.96,38.41,38.41,Baseline (persistence)
+Barley,2025-05-01,2025-04-01,France,23.23,21.66,21.66,Baseline (persistence)
+Barley,2025-03-01,2025-02-01,Germany,20.27,34.88,34.88,Baseline (persistence)
+Barley,2025-04-01,2025-03-01,Germany,37.42,20.27,20.27,Baseline (persistence)
+Barley,2025-01-01,2024-12-01,Romania,28.56,27.37,27.37,Baseline (persistence)
+Barley,2025-01-01,2024-12-01,Russia,35.49,42.68,42.68,Baseline (persistence)
+Barley,2025-02-01,2025-01-01,Russia,26.23,35.49,35.49,Baseline (persistence)
+Barley,2025-03-01,2025-02-01,Russia,28.52,26.23,26.23,Baseline (persistence)
+Barley,2025-04-01,2025-03-01,Turkey,21.86,19.92,19.92,Baseline (persistence)
+Barley,2025-05-01,2025-04-01,Turkey,27.5,21.86,21.86,Baseline (persistence)
+Maize,2025-02-01,2025-01-01,Argentina,44.8,41.51,41.51,Baseline (persistence)
+Maize,2025-03-01,2025-02-01,Argentina,39.32,44.8,44.8,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,Argentina,40.09,39.32,39.32,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,Argentina,45.23,40.09,40.09,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,Argentina,46.94,45.23,45.23,Baseline (persistence)
+Maize,2025-07-01,2025-06-01,Argentina,35.7,46.94,46.94,Baseline (persistence)
+Maize,2025-02-01,2025-01-01,Bahrain,40.67,30.31,30.31,Baseline (persistence)
+Maize,2025-03-01,2025-02-01,Bahrain,28.2,40.67,40.67,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,Bahrain,38.91,28.2,28.2,Baseline (persistence)
+Maize,2025-07-01,2025-06-01,Bahrain,29.44,38.36,38.36,Baseline (persistence)
+Maize,2025-02-01,2025-01-01,Brazil,49.73,47.8,47.8,Baseline (persistence)
+Maize,2025-03-01,2025-02-01,Brazil,35.59,49.73,49.73,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,Brazil,33.36,35.59,35.59,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,Brazil,26.71,33.36,33.36,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,Brazil,42.5,26.71,26.71,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,China,28.1,27.02,27.02,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,China,26.78,28.1,28.1,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,China,26.29,26.78,26.78,Baseline (persistence)
+Maize,2025-07-01,2025-06-01,China,30.14,26.29,26.29,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,France,24.85,25.44,25.44,Baseline (persistence)
+Maize,2025-02-01,2025-01-01,India,43.07,30.86,30.86,Baseline (persistence)
+Maize,2025-03-01,2025-02-01,India,28.01,43.07,43.07,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,India,29.13,28.01,28.01,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,India,27.79,29.13,29.13,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,India,38.25,27.79,27.79,Baseline (persistence)
+Maize,2025-07-01,2025-06-01,India,24.76,38.25,38.25,Baseline (persistence)
+Maize,2025-02-01,2025-01-01,South Africa,49.16,48.32,48.32,Baseline (persistence)
+Maize,2025-03-01,2025-02-01,Spain,25.69,29.26,29.26,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,Spain,26.85,25.69,25.69,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,Spain,25.26,26.85,26.85,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,Spain,24.65,25.26,25.26,Baseline (persistence)
+Maize,2025-07-01,2025-06-01,Spain,22.67,24.65,24.65,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,Thailand,28.63,39.62,39.62,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,Thailand,27.28,28.63,28.63,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,Thailand,26.79,27.28,27.28,Baseline (persistence)
+Maize,2025-07-01,2025-06-01,Thailand,24.25,26.79,26.79,Baseline (persistence)
+Maize,2025-02-01,2025-01-01,Turkey,47.67,43.05,43.05,Baseline (persistence)
+Maize,2025-03-01,2025-02-01,Turkey,31.24,47.67,47.67,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,Turkey,46.3,31.24,31.24,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,Turkey,26.46,46.3,46.3,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,Turkey,39.81,26.46,26.46,Baseline (persistence)
+Maize,2025-07-01,2025-06-01,Turkey,23.65,39.81,39.81,Baseline (persistence)
+Maize,2025-02-01,2025-01-01,UAE,38.47,33.05,33.05,Baseline (persistence)
+Maize,2025-03-01,2025-02-01,UAE,35.9,38.47,38.47,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,UAE,26.5,35.9,35.9,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,UAE,24.96,26.5,26.5,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,UAE,32.76,24.96,24.96,Baseline (persistence)
+Maize,2025-07-01,2025-06-01,UAE,29.83,32.76,32.76,Baseline (persistence)
+Maize,2025-02-01,2025-01-01,Ukraine,34.26,31.07,31.07,Baseline (persistence)
+Maize,2025-03-01,2025-02-01,Ukraine,28.13,34.26,34.26,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,Ukraine,29.19,28.13,28.13,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,Ukraine,47.63,29.19,29.19,Baseline (persistence)
+Maize,2025-02-01,2025-01-01,United States,32.53,40.27,40.27,Baseline (persistence)
+Maize,2025-03-01,2025-02-01,United States,45.26,32.53,32.53,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,United States,34.05,45.26,45.26,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,United States,41.28,34.05,34.05,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,United States,44.3,41.28,41.28,Baseline (persistence)
+Maize,2025-07-01,2025-06-01,United States,35.65,44.3,44.3,Baseline (persistence)
+Maize,2025-02-01,2025-01-01,Yemen,37.9,41.17,41.17,Baseline (persistence)
+Maize,2025-03-01,2025-02-01,Yemen,44.36,37.9,37.9,Baseline (persistence)
+Maize,2025-04-01,2025-03-01,Yemen,27.92,44.36,44.36,Baseline (persistence)
+Maize,2025-05-01,2025-04-01,Yemen,26.45,27.92,27.92,Baseline (persistence)
+Maize,2025-06-01,2025-05-01,Yemen,33.06,26.45,26.45,Baseline (persistence)
+Maize,2025-07-01,2025-06-01,Yemen,24.47,33.06,33.06,Baseline (persistence)
+Rice,2025-02-01,2025-01-01,Australia,39.12,27.242071199968535,22.8,LinearRegression
+Rice,2025-03-01,2025-02-01,Australia,25.15,26.519306462368633,39.12,LinearRegression
+Rice,2025-04-01,2025-03-01,Australia,28.64,28.321129498167483,25.15,LinearRegression
+Rice,2025-05-01,2025-04-01,Australia,26.53,27.89717586188086,28.64,LinearRegression
+Rice,2025-06-01,2025-05-01,Australia,29.11,28.405479858957296,26.53,LinearRegression
+Rice,2025-07-01,2025-06-01,Australia,41.55,27.749744628703905,29.11,LinearRegression
+Rice,2025-02-01,2025-01-01,Bangladesh,31.24,31.66494907236128,39.51,LinearRegression
+Rice,2025-03-01,2025-02-01,Bangladesh,37.16,32.96673878865761,31.24,LinearRegression
+Rice,2025-04-01,2025-03-01,Bangladesh,28.68,31.411900991542336,37.16,LinearRegression
+Rice,2025-05-01,2025-04-01,Bangladesh,44.81,32.637510685132774,28.68,LinearRegression
+Rice,2025-06-01,2025-05-01,Bangladesh,44.68,30.884007679185743,44.81,LinearRegression
+Rice,2025-07-01,2025-06-01,Bangladesh,28.43,32.24348384997531,44.68,LinearRegression
+Rice,2025-04-01,2025-03-01,Brazil,26.25,30.123718790537808,26.38,LinearRegression
+Rice,2025-07-01,2025-06-01,Brazil,25.95,28.39089700649462,28.18,LinearRegression
+Rice,2025-02-01,2025-01-01,Cambodia,31.18,29.8183727592803,33.04,LinearRegression
+Rice,2025-03-01,2025-02-01,Cambodia,32.87,30.116814872765435,31.18,LinearRegression
+Rice,2025-04-01,2025-03-01,Cambodia,36.4,29.487096387525,32.87,LinearRegression
+Rice,2025-05-01,2025-04-01,Cambodia,30.97,30.54721343503625,36.4,LinearRegression
+Rice,2025-06-01,2025-05-01,Cambodia,47.06,30.512600583501133,30.97,LinearRegression
+Rice,2025-07-01,2025-06-01,Cambodia,44.73,30.335825136078594,47.06,LinearRegression
+Rice,2025-02-01,2025-01-01,China,26.77,29.336279125368005,40.05,LinearRegression
+Rice,2025-03-01,2025-02-01,China,38.67,30.734491627138645,26.77,LinearRegression
+Rice,2025-04-01,2025-03-01,China,36.77,29.054505957464308,38.67,LinearRegression
+Rice,2025-05-01,2025-04-01,China,42.75,30.920288945690086,36.77,LinearRegression
+Rice,2025-06-01,2025-05-01,China,37.92,30.211095830763693,42.75,LinearRegression
+Rice,2025-07-01,2025-06-01,China,40.45,31.96087800915579,37.92,LinearRegression
+Rice,2025-02-01,2025-01-01,Egypt,25.87,27.046179392971762,23.88,LinearRegression
+Rice,2025-03-01,2025-02-01,Egypt,26.16,26.83281825718777,25.87,LinearRegression
+Rice,2025-04-01,2025-03-01,Egypt,25.84,26.653618209197845,26.16,LinearRegression
+Rice,2025-05-01,2025-04-01,Egypt,26.99,27.421376613858257,25.84,LinearRegression
+Rice,2025-06-01,2025-05-01,Egypt,42.36,26.814292921370537,26.99,LinearRegression
+Rice,2025-07-01,2025-06-01,Egypt,25.74,26.90559795180949,42.36,LinearRegression
+Rice,2025-02-01,2025-01-01,India,47.45,41.095949307067656,39.77,LinearRegression
+Rice,2025-03-01,2025-02-01,India,49.98,39.91962108026246,47.45,LinearRegression
+Rice,2025-04-01,2025-03-01,India,45.56,41.61940829981778,49.98,LinearRegression
+Rice,2025-05-01,2025-04-01,India,46.75,42.09420967641837,45.56,LinearRegression
+Rice,2025-06-01,2025-05-01,India,48.03,42.143237835672124,46.75,LinearRegression
+Rice,2025-07-01,2025-06-01,India,45.94,42.805783174725576,48.03,LinearRegression
+Rice,2025-02-01,2025-01-01,Italy,41.33,30.874498816087435,23.11,LinearRegression
+Rice,2025-03-01,2025-02-01,Italy,25.36,29.748686706957642,41.33,LinearRegression
+Rice,2025-04-01,2025-03-01,Italy,25.06,30.216165443392427,25.36,LinearRegression
+Rice,2025-05-01,2025-04-01,Italy,26.25,29.519045222030737,25.06,LinearRegression
+Rice,2025-06-01,2025-05-01,Italy,27.08,28.925957607599454,26.25,LinearRegression
+Rice,2025-07-01,2025-06-01,Italy,24.92,27.482406188568635,27.08,LinearRegression
+Rice,2025-03-01,2025-02-01,Myanmar,31.02,33.905598251260585,30.84,LinearRegression
+Rice,2025-04-01,2025-03-01,Myanmar,30.75,28.993155732687182,31.02,LinearRegression
+Rice,2025-05-01,2025-04-01,Myanmar,32.24,29.603417021246056,30.75,LinearRegression
+Rice,2025-06-01,2025-05-01,Myanmar,33.27,29.81124530014326,32.24,LinearRegression
+Rice,2025-02-01,2025-01-01,Pakistan,32.49,32.136958274163824,30.93,LinearRegression
+Rice,2025-03-01,2025-02-01,Pakistan,33.25,31.88961120821906,32.49,LinearRegression
+Rice,2025-04-01,2025-03-01,Pakistan,37.65,31.338434786573618,33.25,LinearRegression
+Rice,2025-05-01,2025-04-01,Pakistan,41.61,32.15335382820411,37.65,LinearRegression
+Rice,2025-06-01,2025-05-01,Pakistan,42.42,32.29532166666495,41.61,LinearRegression
+Rice,2025-07-01,2025-06-01,Pakistan,41.25,32.84347501404645,42.42,LinearRegression
+Rice,2025-02-01,2025-01-01,Philippines,26.5,32.44471249748603,26.61,LinearRegression
+Rice,2025-06-01,2025-05-01,Philippines,34.64,29.153890685606928,46.76,LinearRegression
+Rice,2025-07-01,2025-06-01,Philippines,26.13,31.24787184145562,34.64,LinearRegression
+Rice,2025-03-01,2025-02-01,Portugal,27.1,34.8962437133789,37.19,LinearRegression
+Rice,2025-04-01,2025-03-01,Portugal,26.82,32.72357993057231,27.1,LinearRegression
+Rice,2025-05-01,2025-04-01,Portugal,29.31,30.552040223898498,26.82,LinearRegression
+Rice,2025-06-01,2025-05-01,Portugal,47.16,29.680809453879277,29.31,LinearRegression
+Rice,2025-07-01,2025-06-01,Portugal,26.68,29.124919574278238,47.16,LinearRegression
+Rice,2025-02-01,2025-01-01,South Korea,27.25,27.630110381374088,24.92,LinearRegression
+Rice,2025-03-01,2025-02-01,South Korea,46.46,27.674694920065303,27.25,LinearRegression
+Rice,2025-04-01,2025-03-01,South Korea,27.15,27.67289677217473,46.46,LinearRegression
+Rice,2025-05-01,2025-04-01,South Korea,38.06,30.929889231918388,27.15,LinearRegression
+Rice,2025-02-01,2025-01-01,Spain,28.43,30.505443646001346,42.05,LinearRegression
+Rice,2025-03-01,2025-02-01,Spain,24.86,31.290521847648865,28.43,LinearRegression
+Rice,2025-06-01,2025-05-01,Spain,45.79,28.792413615341815,25.72,LinearRegression
+Rice,2025-07-01,2025-06-01,Spain,24.42,28.512047308800117,45.79,LinearRegression
+Rice,2025-04-01,2025-03-01,Sri Lanka,35.38,31.747635941326347,41.2,LinearRegression
+Rice,2025-04-01,2025-03-01,Syria,25.8,19.828193728999857,26.09,LinearRegression
+Rice,2025-02-01,2025-01-01,Thailand,27.49,30.460787903552937,25.34,LinearRegression
+Rice,2025-03-01,2025-02-01,Thailand,27.94,30.200541336521223,27.49,LinearRegression
+Rice,2025-04-01,2025-03-01,Thailand,29.32,29.244718959947615,27.94,LinearRegression
+Rice,2025-05-01,2025-04-01,Thailand,38.21,29.304042623012606,29.32,LinearRegression
+Rice,2025-06-01,2025-05-01,Thailand,47.48,28.983199216108783,38.21,LinearRegression
+Rice,2025-07-01,2025-06-01,Thailand,30.87,29.658040896142396,47.48,LinearRegression
+Rice,2025-02-01,2025-01-01,UAE,24.35,28.482574195213104,22.34,LinearRegression
+Rice,2025-03-01,2025-02-01,UAE,35.33,27.29609781842477,24.35,LinearRegression
+Rice,2025-04-01,2025-03-01,UAE,24.3,26.795439085479828,35.33,LinearRegression
+Rice,2025-05-01,2025-04-01,UAE,36.27,28.649199060614645,24.3,LinearRegression
+Rice,2025-04-01,2025-03-01,UK,44.25,27.261871337080997,25.1,LinearRegression
+Rice,2025-02-01,2025-01-01,United States,24.74,29.332907421522645,24.56,LinearRegression
+Rice,2025-03-01,2025-02-01,United States,26.88,29.01593882795504,24.74,LinearRegression
+Rice,2025-04-01,2025-03-01,United States,25.2,26.949455878805185,26.88,LinearRegression
+Rice,2025-05-01,2025-04-01,United States,30.96,28.521063068781658,25.2,LinearRegression
+Rice,2025-06-01,2025-05-01,United States,28.96,27.237585143193062,30.96,LinearRegression
+Rice,2025-07-01,2025-06-01,United States,35.51,27.965199737504697,28.96,LinearRegression
+Rice,2025-06-01,2025-05-01,Uzbekistan,29.82,28.043156872675052,28.97,LinearRegression
+Rice,2025-02-01,2025-01-01,Vietnam,33.16,29.046660234180944,25.92,LinearRegression
+Rice,2025-03-01,2025-02-01,Vietnam,36.62,28.338267612872045,33.16,LinearRegression
+Rice,2025-04-01,2025-03-01,Vietnam,28.17,28.860944122604508,36.62,LinearRegression
+Rice,2025-05-01,2025-04-01,Vietnam,39.91,30.110638803110668,28.17,LinearRegression
+Rice,2025-06-01,2025-05-01,Vietnam,41.71,29.30069904382486,39.91,LinearRegression
+Rice,2025-07-01,2025-06-01,Vietnam,28.07,30.793044365233477,41.71,LinearRegression
+Sugar,2025-04-01,2025-03-01,Austria,40.87,27.163230108130776,22.28,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,Austria,42.27,29.579842012759354,40.87,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,Bahrain,24.71,25.443310384533397,24.27,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,Bahrain,24.46,28.770389250242182,24.71,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Bahrain,24.56,25.651073623831266,24.46,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,Bahrain,25.01,28.626059689852124,24.56,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,Bahrain,26.57,28.368402176415984,25.01,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,Bahrain,35.84,26.610310512580952,26.57,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,Belgium,38.62,31.464753805502998,42.56,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,Belgium,23.34,28.839642774800577,38.62,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,Brazil,43.57,42.99998374700423,42.37,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,Brazil,46.68,40.97736480591688,43.57,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Brazil,43.54,42.55598525085583,46.68,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,Brazil,58.47,46.56828926112157,43.54,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,Brazil,45.38,49.82738089814094,58.47,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,Brazil,49.02,44.98381471346647,45.38,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,China,24.36,27.136166247818295,23.77,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,China,23.95,28.661722737542227,24.36,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,China,24.1,31.092801685439863,23.95,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,China,24.87,32.51278462508682,24.1,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,China,26.51,31.826272921757376,24.87,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,China,24.47,27.403647709301712,26.51,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,France,24.74,42.81486467942032,22.92,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,France,25.12,37.004255768173074,24.74,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,France,39.31,30.956454985339636,25.12,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Germany,23.22,30.85473963910243,41.16,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,India,37.97,32.200758102399064,40.98,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,India,27.81,28.451747470704944,37.97,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,India,25.26,26.97099329699924,27.81,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,India,44.6,28.042938315359418,25.26,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,India,27.78,33.4280574723588,44.6,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,India,36.93,27.729443997366094,27.78,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,Indonesia,30.81,29.332550866148374,39.54,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,Indonesia,42.89,32.985172663689674,30.81,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Indonesia,27.1,29.04401018731852,42.89,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,Indonesia,27.48,27.891902307003274,27.1,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,Indonesia,27.76,31.717469213812805,27.48,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,Indonesia,38.14,28.924424186252818,27.76,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,Italy,37.06,28.69727916566001,23.4,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Italy,23.17,31.225751349314113,37.06,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,Italy,23.83,34.75914919998939,23.17,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,Jordan,26.93,29.18038131713842,26.5,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,Jordan,45.17,36.94506397614391,26.93,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Jordan,26.69,28.346571172080772,45.17,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,Malaysia,28.07,23.67380190192418,38.41,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,Mauritius,25.5,31.843835060752316,32.15,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,Mauritius,25.41,28.97958376897303,25.5,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Mauritius,25.24,29.74621892543126,25.41,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,Mauritius,26.08,28.197688147935903,25.24,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,Mauritius,27.37,29.628672047195845,26.08,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,Mauritius,25.65,29.94609102825353,27.37,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,Netherlands,38.6,34.27520050801781,42.77,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,Netherlands,22.83,35.964415027447465,38.6,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,"Other Asia, nes",24.16,28.543305964384206,23.73,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,Pakistan,28.65,28.805719705056767,28.44,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,Philippines,41.18,29.609111036617122,23.84,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,Philippines,26.25,30.758026153121467,41.18,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Poland,36.92,42.584948755849325,39.11,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,Poland,38.09,38.46550848853277,40.22,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,Singapore,22.15,27.0438294205293,21.73,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,Singapore,27.58,28.28581057660899,22.15,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Singapore,30.82,27.960972336966428,27.58,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,Singapore,22.48,27.998136259689794,30.82,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Spain,41.6,23.496979035577088,41.54,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,Spain,41.84,31.228064214380044,41.6,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,Thailand,24.9,28.948725052026358,36.4,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,Thailand,36.26,29.92249973358745,24.9,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,Thailand,24.6,26.374513626860264,36.26,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,Thailand,25.64,29.89415716942947,24.6,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,Thailand,34.8,34.17931279621255,25.64,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,Thailand,25.0,33.1143556494271,34.8,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,Turkey,24.15,27.948758758717418,23.73,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,UAE,31.49,21.69703845142426,29.5,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,UAE,37.34,23.810793226836815,31.49,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,UAE,24.73,25.752130757983423,37.34,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,UAE,23.95,28.992805828073596,24.73,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,UAE,24.94,31.10541138568081,23.95,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,UAE,23.17,24.370172771404064,24.94,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,UK,42.39,33.94685980679064,22.73,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,UK,22.8,30.657890884405315,42.39,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,UK,22.93,23.489811813208128,22.8,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,UK,23.52,34.464714317908005,22.93,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,UK,25.09,36.77948039695997,23.52,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,UK,29.99,29.808850973868562,25.09,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,United States,22.68,26.839829917394717,22.24,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,United States,37.83,26.431940390299772,22.68,HistGradientBoosting
+Sugar,2025-04-01,2025-03-01,United States,22.44,25.473777721046808,37.83,HistGradientBoosting
+Sugar,2025-05-01,2025-04-01,United States,23.02,32.38626923889648,22.44,HistGradientBoosting
+Sugar,2025-06-01,2025-05-01,United States,38.51,24.514366480592546,23.02,HistGradientBoosting
+Sugar,2025-07-01,2025-06-01,United States,35.59,24.873911038798827,38.51,HistGradientBoosting
+Sugar,2025-02-01,2025-01-01,Vietnam,25.6,29.107882702746686,36.68,HistGradientBoosting
+Sugar,2025-03-01,2025-02-01,Vietnam,35.2,30.797980794706643,25.6,HistGradientBoosting
+Wheat,2025-03-01,2025-02-01,Brazil,38.05,29.588179215301654,27.67,RandomForest
+Wheat,2025-06-01,2025-05-01,Romania,45.3,36.5027609716209,32.0,RandomForest
+Wheat,2025-07-01,2025-06-01,Romania,48.66,35.670604188792666,45.3,RandomForest
+Wheat,2025-01-01,2024-12-01,Russia,44.82,43.93106689814811,46.08,RandomForest
+Wheat,2025-02-01,2025-01-01,Russia,37.63,44.22729537037034,44.82,RandomForest
+Wheat,2025-05-01,2025-04-01,Russia,43.24,40.8644451515151,34.98,RandomForest
+Wheat,2025-06-01,2025-05-01,Russia,47.12,38.06329192460314,43.24,RandomForest

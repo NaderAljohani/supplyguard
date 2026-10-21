@@ -1,0 +1,8 @@
+field,formula,purpose
+supplier_dependency_risk_score_0_100,supplier_share_value * 100,Measures dependence on each supplier country for rice imports.
+market_concentration_risk_score_0_100,top3_supplier_share_value * 100,Measures overall Saudi rice supplier concentration in each month.
+import_anomaly_risk_score_0_100,"max(0, -YoY import value change) * 100 capped at 100",Flags abnormal supplier-level import drops versus same month last year.
+rice_price_stress_score_0_100,0.7*positive price z-score + 0.3*rolling price volatility,Captures price spikes and volatility from World Bank Pink Sheet.
+logistics_risk_score_0_100,((5 - latest_available_LPI_score)/4)*100,"Transforms World Bank LPI into risk, where lower LPI means higher logistics risk."
+rice_route_shipping_stress_score_0_100,0.8*Red Sea stress + 0.2*Gulf stress,Adds maritime/chokepoint stress from IMF PortWatch.
+supplyguard_risk_score_0_100,"weighted composite: 20% dependency, 20% market concentration, 15% import anomaly, 15% price, 10% LPI, 20% shipping stress",Main explainable risk score used for dashboard and demo.

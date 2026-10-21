@@ -1,0 +1,21 @@
+product,model,MAE,RMSE,R2,n_test,n_test_months,validation_MAE,selected_on_validation,baseline_MAE,mae_improvement_vs_baseline
+Barley,Baseline (persistence),6.066,8.163,-0.646,18,6,5.89,True,6.066,0.0
+Barley,LinearRegression,5.098,6.658,-0.095,18,6,8.244,False,6.066,0.968
+Barley,RandomForest,5.842,6.992,-0.208,18,6,8.836,False,6.066,0.224
+Barley,HistGradientBoosting,5.977,6.892,-0.173,18,6,6.674,False,6.066,0.089
+Maize,Baseline (persistence),6.786,8.713,-0.236,64,6,4.221,True,6.786,0.0
+Maize,LinearRegression,5.709,6.89,0.227,64,6,5.507,False,6.786,1.077
+Maize,RandomForest,5.68,6.598,0.291,64,6,5.135,False,6.786,1.106
+Maize,HistGradientBoosting,5.818,6.889,0.227,64,6,5.638,False,6.786,0.968
+Rice,Baseline (persistence),6.634,9.169,-0.472,96,6,5.063,False,6.634,0.0
+Rice,LinearRegression,5.629,7.41,0.039,96,6,4.518,True,6.634,1.005
+Rice,RandomForest,6.044,7.991,-0.118,96,6,4.671,False,6.634,0.59
+Rice,HistGradientBoosting,6.293,8.201,-0.178,96,6,5.5,False,6.634,0.341
+Sugar,Baseline (persistence),6.482,9.157,-0.306,92,6,6.357,False,6.482,0.0
+Sugar,LinearRegression,5.88,7.215,0.189,92,6,6.019,False,6.482,0.602
+Sugar,RandomForest,5.816,6.883,0.262,92,6,5.31,False,6.482,0.666
+Sugar,HistGradientBoosting,5.978,7.369,0.154,92,6,4.895,True,6.482,0.504
+Wheat,Baseline (persistence),6.804,7.86,-2.971,7,6,6.623,False,6.804,0.0
+Wheat,LinearRegression,7.218,8.154,-3.273,7,6,2.923,False,6.804,-0.414
+Wheat,RandomForest,7.024,8.015,-3.129,7,6,0.915,True,6.804,-0.22
+Wheat,HistGradientBoosting,6.397,7.691,-2.802,7,6,4.067,False,6.804,0.407

@@ -1,0 +1,205 @@
+{
+  "kind": "historical_publication_snapshot",
+  "files": [
+    {
+      "path": "data/outputs/anomaly_results.csv",
+      "bytes": 42219,
+      "sha256": "2e411b820ce18228b4a113a881d91a4f3338652aeaf0b99fd5ab709b88b487e4"
+    },
+    {
+      "path": "data/outputs/data_quality_summary.csv",
+      "bytes": 475,
+      "sha256": "8e4b071e2afd1a149b923ef7d5651deabf0cd0034ce8225ba61aa26326856045"
+    },
+    {
+      "path": "data/outputs/event_backtest_summary.csv",
+      "bytes": 1093,
+      "sha256": "0053ff073c3af49ff1333aefad05c08e705f9a66635ae8e0febc1e49c39f1a5a"
+    },
+    {
+      "path": "data/outputs/forecast_actual_vs_predicted.csv",
+      "bytes": 23227,
+      "sha256": "52727f2fecca7393f6b3a33bb5d4ad1a929de7d6762f1d8c01b339eceb13c366"
+    },
+    {
+      "path": "data/outputs/forecast_feature_importance.csv",
+      "bytes": 3045,
+      "sha256": "a1fa41c5f257b747456cf75f97f48f1462ae78479bfc3a7e854ab5700c183f3f"
+    },
+    {
+      "path": "data/outputs/forecast_leakage_audit.csv",
+      "bytes": 15271,
+      "sha256": "19d62161f85456ea3d265be4e39e54acc677e9a344b16b3ec465e6edfb2fd52d"
+    },
+    {
+      "path": "data/outputs/forecast_model_metrics.csv",
+      "bytes": 1562,
+      "sha256": "d5bc302bce4caa21f7239dd9fb062a487f7bd0e136e81a8e4755f3db95d57432"
+    },
+    {
+      "path": "data/outputs/forecast_split_summary.csv",
+      "bytes": 778,
+      "sha256": "df3e0b299edefa690923145bf92e0bbd2c3d55efc42c4dcb892e8ed71e8f96c5"
+    },
+    {
+      "path": "data/outputs/missingness_by_product.csv",
+      "bytes": 743,
+      "sha256": "6710da9aac9d0770a5dd78a0bb27282193244b44a7ef340ae6400d8c41522d57"
+    },
+    {
+      "path": "data/outputs/next_month_risk_forecast.csv",
+      "bytes": 7051,
+      "sha256": "7aa4826699241806c4a96bbbf3c7fc3a9273135caaec940c60f8a54cbe24654a"
+    },
+    {
+      "path": "data/outputs/sensitivity_analysis_detail.csv",
+      "bytes": 2813,
+      "sha256": "76970a3b5cb6da46165efa66ee2ef0f5a72fce7af312bd90c62070e9904e6c64"
+    },
+    {
+      "path": "data/outputs/sensitivity_analysis_summary.csv",
+      "bytes": 319,
+      "sha256": "b6c3ca066112a9d3dff42c1d8cb22b5ad344d51af3191d6b7611ae114ccc87da"
+    },
+    {
+      "path": "data/processed/supplyguard_cleaned.csv",
+      "bytes": 6078296,
+      "sha256": "b4ecc5ecfd00e53eec2680a19f15e79e9e0f5ee1436e3ae661a219564810c4d2"
+    },
+    {
+      "path": "data/processed/supplyguard_latest_supplier_risk.csv",
+      "bytes": 286416,
+      "sha256": "5a8cf623d0e3e0d2a17b36017895b54089818c297c23c27e7c5b6b1374d710b8"
+    },
+    {
+      "path": "data/processed/supplyguard_multiproduct_modeling_dataset.csv",
+      "bytes": 6698330,
+      "sha256": "982b337cbc615275272b138a9e944010d905e3bf1157e24406f8038752fc6afa"
+    },
+    {
+      "path": "data/raw/known_disruption_events_multiproduct_supplyguard_with_barley.csv",
+      "bytes": 3035,
+      "sha256": "8a88b8e0ae7386cdd59f9458bcc3b9b4f6558e51a4bb896f7e2187eef98603ad"
+    },
+    {
+      "path": "data/raw/portwatch_monthly_long_2019_2026.csv",
+      "bytes": 232032,
+      "sha256": "74d36a7c6de4a0a1132123a7e3eb4c2e1404b0a327961fa9d4947cb2290d5582"
+    },
+    {
+      "path": "data/raw/portwatch_monthly_shipping_features_2019_2026.csv",
+      "bytes": 85337,
+      "sha256": "46d72c1f1ea84db611912fc495a3bd4eb646f343d01022bb2fdb8073343ebf65"
+    },
+    {
+      "path": "data/raw/supplyguard_food_imports_annual_top_suppliers_summary_with_barley.csv",
+      "bytes": 93872,
+      "sha256": "6fda69528ba17286dd27e70503079d4cfe82d44c3afc6fb7836d060395da9045"
+    },
+    {
+      "path": "data/raw/supplyguard_food_imports_multiproduct_features_2018_2025_with_barley.csv",
+      "bytes": 5402572,
+      "sha256": "1c4fe48a0d4a0779c7c5ef1250d6b5ab63800fe243c17c08d2a2a5a94dac7aba"
+    },
+    {
+      "path": "data/raw/supplyguard_latest_material_supplier_risk_multiproduct_with_barley.csv",
+      "bytes": 15679,
+      "sha256": "0e5d82b43a9abe09cd715436efc671e768bdb11be25bfe5d50783e76ed983a7f"
+    },
+    {
+      "path": "data/raw/supplyguard_multiproduct_coverage_summary_with_barley.csv",
+      "bytes": 352,
+      "sha256": "bec2804091d2409e524c755bbe5adff7cc2ff598f185ca0c43e4cdc3715bc9b9"
+    },
+    {
+      "path": "data/raw/supplyguard_risk_score_methodology.csv",
+      "bytes": 1087,
+      "sha256": "3c6e00e64d64015a8fc22f6edb193dcd14ba85ee69ebfdb818db95998a6b6399"
+    },
+    {
+      "path": "data/raw/world_bank_pink_sheet_food_price_proxies_2018_2025_with_barley.csv",
+      "bytes": 59135,
+      "sha256": "aa217a818c167df4c5daf44221f8f4e964d69e4ab1c53ad4090e3dde50736eab"
+    },
+    {
+      "path": "data/outputs/figures/concentration_barley.png",
+      "bytes": 80682,
+      "sha256": "c419bca075e38c271d36660483ad3fe62985f668a50b9c782b48a2a34cd5af64"
+    },
+    {
+      "path": "data/outputs/figures/concentration_maize.png",
+      "bytes": 72300,
+      "sha256": "d3ea0af61725a9b87a26ef0180599f7173eb1c8c2e7f8f1b461f8f09962e16a5"
+    },
+    {
+      "path": "data/outputs/figures/concentration_rice.png",
+      "bytes": 67026,
+      "sha256": "ca4c556e933aa88bc4732f88dbd4e854bd44eb9ad9a6d0798925b76c55497166"
+    },
+    {
+      "path": "data/outputs/figures/concentration_sugar.png",
+      "bytes": 72104,
+      "sha256": "0289039c178f39ca0687bfb9e097343ab0973da1613f66e822dd0ed45ff396e6"
+    },
+    {
+      "path": "data/outputs/figures/concentration_wheat.png",
+      "bytes": 81234,
+      "sha256": "a2b00d0a3b03a203cbab2d31078e1ed0eefab7ac0c15b3b562b9a078897ce2fa"
+    },
+    {
+      "path": "data/outputs/figures/risk_trend_barley.png",
+      "bytes": 92945,
+      "sha256": "c5cbfbb8fdceb716b99fe310734c1c3d91543d4e3a73a9ab200f3bd18e0c1d05"
+    },
+    {
+      "path": "data/outputs/figures/risk_trend_maize.png",
+      "bytes": 82074,
+      "sha256": "436b3b9b9ff8372eb9391da9b553bc7b6ed8e2d77a6fe72c0288de8ac64a22a2"
+    },
+    {
+      "path": "data/outputs/figures/risk_trend_rice.png",
+      "bytes": 85308,
+      "sha256": "8640e584fcf8eef21baf91f72fa19f2167675872219dc987c75ddeb8d9ab8d8c"
+    },
+    {
+      "path": "data/outputs/figures/risk_trend_sugar.png",
+      "bytes": 81929,
+      "sha256": "d48e7db08aa5bc35ca9f9ef4c044f314db261a66adfd768b47c4b3e91fc925e0"
+    },
+    {
+      "path": "data/outputs/figures/risk_trend_wheat.png",
+      "bytes": 89588,
+      "sha256": "f9007876d8b8b9a2f6c5ec0e431062462cc312c59006b2d4478bc3730591ae44"
+    },
+    {
+      "path": "data/outputs/figures/shipping_stress.png",
+      "bytes": 111961,
+      "sha256": "be3cf7215edb72d8c85a6d2dca2fa0d8a6df2abf776804ffc5e47f5e5a1e765c"
+    },
+    {
+      "path": "data/outputs/figures/top_suppliers_barley.png",
+      "bytes": 29607,
+      "sha256": "a943cdb64979531a42589dd7836c923cd35b0329c172295c077c5bd692663763"
+    },
+    {
+      "path": "data/outputs/figures/top_suppliers_maize.png",
+      "bytes": 31629,
+      "sha256": "3f04184d4977e23f144ac83ab538fb09ca4a2c676410b3e8e71bc5af31db20ac"
+    },
+    {
+      "path": "data/outputs/figures/top_suppliers_rice.png",
+      "bytes": 28898,
+      "sha256": "eadd61f8df066dd6033fe1ebb5560d8dd20f4a11ba612659ce9b3bdf94f52e50"
+    },
+    {
+      "path": "data/outputs/figures/top_suppliers_sugar.png",
+      "bytes": 26973,
+      "sha256": "75929659816fda0f253b5de0ff6427c8d1c24bf3f02863cbf495926855021f22"
+    },
+    {
+      "path": "data/outputs/figures/top_suppliers_wheat.png",
+      "bytes": 28241,
+      "sha256": "97c6f7089e268af20d26a4e10f78b604f35ec4f06b7449e87073f6a74fcc7b4c"
+    }
+  ]
+}

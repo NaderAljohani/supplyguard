@@ -1,0 +1,10 @@
+event_name,event_date,affected_product,affected_country,event_in_product_data,risk_pre_event_mean,risk_during_event_mean,risk_post_event_mean,delta_during_minus_pre,n_months_in_window
+COVID-19 pandemic declared,2020-03-11,Rice,Global,True,30.61,34.1,29.91,3.5,9
+Suez Canal blockage (Ever Given),2021-03-23,Rice,Shipping route,True,30.79,25.83,28.17,-4.96,9
+India non-basmati rice export ban,2023-07-20,Rice,India,True,42.63,46.92,45.62,4.29,9
+Red Sea / Bab el-Mandeb shipping disruption begins,2023-12-16,Rice,Shipping route,True,33.79,37.07,30.77,3.28,9
+Red Sea crisis partial de-escalation after Gaza ceasefire,2025-01-19,Rice,Shipping route,True,29.44,31.92,33.81,2.48,9
+Strait of Hormuz shipping tension / blockade period,2026-04-13,Rice,Shipping route,False,,,,,0
+Russia-Ukraine war / Black Sea grain disruption,2022-02-24,Wheat; Maize,Russia/Ukraine,True,35.44,,42.63,,6
+Global sugar price stress period,2023-09-01,Sugar,Global,True,32.93,33.86,30.8,0.93,8
+Barley feed grain import concentration risk marker,2022-02-24,Barley,Russia/Ukraine/Black Sea suppliers,True,,,37.72,,3

@@ -1,0 +1,6 @@
+product,selected_model,train_target_end,validation_target_start,validation_target_end,test_target_start,test_target_end,selection_rule
+Barley,Baseline (persistence),2024-09-01,2024-10-01,2024-12-01,2025-01-01,2025-06-01,"lowest validation MAE, including persistence"
+Maize,Baseline (persistence),2024-10-01,2024-11-01,2025-01-01,2025-02-01,2025-07-01,"lowest validation MAE, including persistence"
+Rice,LinearRegression,2024-10-01,2024-11-01,2025-01-01,2025-02-01,2025-07-01,"lowest validation MAE, including persistence"
+Sugar,HistGradientBoosting,2024-10-01,2024-11-01,2025-01-01,2025-02-01,2025-07-01,"lowest validation MAE, including persistence"
+Wheat,RandomForest,2024-08-01,2024-09-01,2024-12-01,2025-01-01,2025-07-01,"lowest validation MAE, including persistence"

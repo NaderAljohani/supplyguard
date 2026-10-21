@@ -1,0 +1,61 @@
+Product,Component,Perturbation,Top-10 overlap %,Spearman rho,Avg rank change
+Barley,Supplier dependency,+20%,100.0,0.996,0.29
+Barley,Supplier dependency,-20%,100.0,0.996,0.29
+Barley,Market concentration,+20%,100.0,0.994,0.38
+Barley,Market concentration,-20%,100.0,0.994,0.38
+Barley,Import anomaly,+20%,100.0,1.0,0.0
+Barley,Import anomaly,-20%,100.0,0.999,0.1
+Barley,Commodity price stress,+20%,100.0,0.99,0.48
+Barley,Commodity price stress,-20%,100.0,0.996,0.19
+Barley,Logistics risk,+20%,100.0,0.995,0.29
+Barley,Logistics risk,-20%,100.0,0.997,0.19
+Barley,Shipping stress,+20%,100.0,0.996,0.19
+Barley,Shipping stress,-20%,100.0,0.995,0.29
+Maize,Supplier dependency,+20%,100.0,0.952,0.5
+Maize,Supplier dependency,-20%,100.0,1.0,0.0
+Maize,Market concentration,+20%,100.0,0.976,0.25
+Maize,Market concentration,-20%,100.0,1.0,0.0
+Maize,Import anomaly,+20%,100.0,1.0,0.0
+Maize,Import anomaly,-20%,100.0,0.976,0.25
+Maize,Commodity price stress,+20%,100.0,1.0,0.0
+Maize,Commodity price stress,-20%,100.0,0.976,0.25
+Maize,Logistics risk,+20%,100.0,0.976,0.25
+Maize,Logistics risk,-20%,100.0,0.976,0.25
+Maize,Shipping stress,+20%,100.0,0.976,0.25
+Maize,Shipping stress,-20%,100.0,1.0,0.0
+Rice,Supplier dependency,+20%,100.0,1.0,0.0
+Rice,Supplier dependency,-20%,100.0,1.0,0.0
+Rice,Market concentration,+20%,100.0,1.0,0.0
+Rice,Market concentration,-20%,100.0,1.0,0.0
+Rice,Import anomaly,+20%,100.0,1.0,0.0
+Rice,Import anomaly,-20%,100.0,0.943,0.33
+Rice,Commodity price stress,+20%,100.0,1.0,0.0
+Rice,Commodity price stress,-20%,100.0,1.0,0.0
+Rice,Logistics risk,+20%,100.0,0.943,0.33
+Rice,Logistics risk,-20%,100.0,1.0,0.0
+Rice,Shipping stress,+20%,100.0,1.0,0.0
+Rice,Shipping stress,-20%,100.0,1.0,0.0
+Sugar,Supplier dependency,+20%,100.0,1.0,0.0
+Sugar,Supplier dependency,-20%,100.0,1.0,0.0
+Sugar,Market concentration,+20%,100.0,1.0,0.0
+Sugar,Market concentration,-20%,100.0,1.0,0.0
+Sugar,Import anomaly,+20%,100.0,1.0,0.0
+Sugar,Import anomaly,-20%,100.0,1.0,0.0
+Sugar,Commodity price stress,+20%,100.0,1.0,0.0
+Sugar,Commodity price stress,-20%,100.0,1.0,0.0
+Sugar,Logistics risk,+20%,100.0,1.0,0.0
+Sugar,Logistics risk,-20%,100.0,1.0,0.0
+Sugar,Shipping stress,+20%,100.0,1.0,0.0
+Sugar,Shipping stress,-20%,100.0,1.0,0.0
+Wheat,Supplier dependency,+20%,100.0,0.997,0.2
+Wheat,Supplier dependency,-20%,100.0,0.992,0.5
+Wheat,Market concentration,+20%,100.0,0.995,0.3
+Wheat,Market concentration,-20%,100.0,0.998,0.1
+Wheat,Import anomaly,+20%,100.0,0.998,0.1
+Wheat,Import anomaly,-20%,100.0,0.998,0.1
+Wheat,Commodity price stress,+20%,100.0,0.994,0.3
+Wheat,Commodity price stress,-20%,100.0,1.0,0.0
+Wheat,Logistics risk,+20%,100.0,1.0,0.0
+Wheat,Logistics risk,-20%,100.0,0.997,0.2
+Wheat,Shipping stress,+20%,100.0,1.0,0.0
+Wheat,Shipping stress,-20%,100.0,0.994,0.3

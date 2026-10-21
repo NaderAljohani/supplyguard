@@ -1,0 +1,4 @@
+# The default pipeline uses HistGradientBoosting when XGBoost is absent.
+xgboost>=2,<4
+# Install only if using optional Gemini text recommendations.
+google-genai>=1,<3
