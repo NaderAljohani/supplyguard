@@ -1,6 +1,8 @@
 # SupplyGuard Saudi
 
-SupplyGuard explores Saudi food-import exposure using a transparent composite
+[![Tests](https://github.com/NaderAljohani/supplyguard/actions/workflows/ci.yml/badge.svg)](https://github.com/NaderAljohani/supplyguard/actions/workflows/ci.yml)
+
+SupplyGuard analyses Saudi food-import exposure using a composite
 risk index. It combines supplier dependency, market concentration, import
 changes, commodity prices, logistics performance, and maritime stress for rice,
 wheat, barley, maize, and sugar.
@@ -64,7 +66,7 @@ weighted sum of six 0-to-100 components:
 | Logistics risk | 10% |
 | Maritime shipping stress | 20% |
 
-Weights and thresholds are assumptions of this prototype. Scenario outputs are
+The methodology defines the index weights and thresholds as modelling assumptions. Scenario outputs are
 recomputed index values, not predictions of commercial losses or causal effects.
 
 Forecast models are selected on an earlier three-target-month validation
@@ -75,9 +77,9 @@ the snapshot forecasts. See [evaluation results](docs/EVALUATION.md).
 
 ## Data and limits
 
-The trade snapshot spans 2018 to July 2025; maritime coverage differs. This is a
-retrospective research prototype, not a live early-warning service. There are
-no verified disruption/no-disruption labels. The forecast target is the next
+The dashboard analyses historical data: trade coverage spans 2018 to July 2025,
+and maritime coverage differs. The dataset has no verified disruption labels.
+The forecast target is the next
 index value, not the probability of disruption. Results vary by product and
 some evaluation samples are very small. Event comparisons establish no causal
 effect or warning lead time. Input publication lags are not fully modelled.
@@ -97,6 +99,14 @@ python -m pytest -q
 
 Tests cover forecasting boundaries, missing calendar months, baseline selection,
 multi-product event filtering, optional AI fallback, and dashboard views.
-Windows/Linux CI is configured; local verification is documented separately.
+The linked CI runs release checks and tests on Windows and Linux.
+
+## Design choices
+
+The index, anomaly flags, forecasts, and scenario outputs are presented
+separately because each answers a different question. Forecast selection
+includes persistence so a trained model must compete with carrying the latest
+value forward. Scenario calculations run locally; optional model-generated
+text explains results without setting the numerical scores.
 
 [الدليل العربي](README_AR.md) | [Preparation changes](docs/PREPARATION.md)
