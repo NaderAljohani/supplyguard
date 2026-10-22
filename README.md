@@ -7,6 +7,12 @@ risk index. It combines supplier dependency, market concentration, import
 changes, commodity prices, logistics performance, and maritime stress for rice,
 wheat, barley, maize, and sugar.
 
+![SupplyGuard scenario inputs and before-and-after risk comparison](docs/images/scenario-demo.gif)
+
+Ten-second walkthrough of the running scenario simulator using the bundled
+historical snapshot and the Red Sea escalation preset. It shows hypothetical
+index changes under the selected assumptions.
+
 The Streamlit dashboard separates the historical index, anomaly detection,
 experimental next-month index forecasting, and deterministic scenario analysis.
 It runs without API credentials.
